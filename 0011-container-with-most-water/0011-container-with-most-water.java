@@ -12,11 +12,11 @@ class Solution {
             max=area;
         }
         int move = Math.max(height[start],height[end]);
-        if(move==height[start]){
-            end--;
-        }else{
-            start++;
-        }
+        if (height[start] < height[end]) {
+                start++;
+            } else {
+                end--;
+            }
     }
        return max;
     }
