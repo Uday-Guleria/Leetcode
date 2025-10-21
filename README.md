@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Uday-Guleria/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Uday-Guleria/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Uday-Guleria/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Uday-Guleria/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Uday-Guleria/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Uday-Guleria/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Uday-Guleria/Leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Uday-Guleria/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
 ## Bucket Sort
 |  |
@@ -59,9 +61,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Uday-Guleria/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Uday-Guleria/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Uday-Guleria/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
