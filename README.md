@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Uday-Guleria/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Uday-Guleria/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Uday-Guleria/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Uday-Guleria/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Uday-Guleria/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Uday-Guleria/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Uday-Guleria/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Uday-Guleria/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Uday-Guleria/Leetcode/tree/master/0164-maximum-gap) |
+| [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -52,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Uday-Guleria/Leetcode/tree/master/0164-maximum-gap) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
