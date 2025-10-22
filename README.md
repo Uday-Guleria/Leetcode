@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Uday-Guleria/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uday-Guleria/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Uday-Guleria/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Uday-Guleria/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Uday-Guleria/Leetcode/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Uday-Guleria/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Uday-Guleria/Leetcode/tree/master/0164-maximum-gap) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Uday-Guleria/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Uday-Guleria/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
 ## String
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Uday-Guleria/Leetcode/tree/master/0948-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Uday-Guleria/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
