@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Uday-Guleria/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Uday-Guleria/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Uday-Guleria/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1642-water-bottles](https://github.com/Uday-Guleria/Leetcode/tree/master/1642-water-bottles) |
 ## String
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Uday-Guleria/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
