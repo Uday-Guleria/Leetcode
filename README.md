@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Uday-Guleria/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Uday-Guleria/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Uday-Guleria/Leetcode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Uday-Guleria/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Uday-Guleria/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0948-sort-an-array](https://github.com/Uday-Guleria/Leetcode/tree/master/0948-sort-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Uday-Guleria/Leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Uday-Guleria/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Uday-Guleria/Leetcode/tree/master/0048-rotate-image) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Uday-Guleria/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
