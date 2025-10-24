@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Uday-Guleria/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Uday-Guleria/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Uday-Guleria/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Uday-Guleria/Leetcode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Uday-Guleria/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1642-water-bottles](https://github.com/Uday-Guleria/Leetcode/tree/master/1642-water-bottles) |
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Uday-Guleria/Leetcode/tree/master/0412-fizz-buzz) |
 | [1894-merge-strings-alternately](https://github.com/Uday-Guleria/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -116,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Uday-Guleria/Leetcode/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/Uday-Guleria/Leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
