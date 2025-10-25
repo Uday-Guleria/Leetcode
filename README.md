@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Uday-Guleria/Leetcode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Uday-Guleria/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1642-water-bottles](https://github.com/Uday-Guleria/Leetcode/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Uday-Guleria/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## String
 |  |
 | ------- |
