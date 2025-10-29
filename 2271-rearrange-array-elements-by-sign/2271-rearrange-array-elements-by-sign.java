@@ -17,18 +17,15 @@ class Solution {
             negt++;
         }
        }
-       post=0;
-       negt=0;
+       
 
-       int i=0;
+       int in=0;
 
-       while(i<nums.length){
-        arr[i]=pos[post];
-        i++;
-        post++;
-        arr[i] = neg[negt];
-        i++;
-        negt++;
+       for(int i=0;i<pos.length;i++){
+        arr[in]=pos[i];
+        in++;
+        arr[in]=neg[i];
+        in++;
        }
 
        return arr;
